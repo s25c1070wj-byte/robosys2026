@@ -2,7 +2,7 @@
 # SPDX-FileCopyrightText: 2026 Dewa Hansana
 # SPDX-License-Identifier: BSD-3-Clause
 import sys
-def tonum(s)
+def tonum(s):
     try:
         return int(s)
     except ValueError:
