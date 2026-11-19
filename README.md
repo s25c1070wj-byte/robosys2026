@@ -8,4 +8,19 @@
   本人の許可を得て自身の著作としたものです。
     - https://github.com/tarolab-cit/lectures/tree/main/robosys2026
 - © 2026 DEWA HANSANA 
+# plusコマンド
+標準入力から読み込んだ数値を合計して出力します。
 
+# 使い方
+seq 5 | ./plus
+# 実行例
+$ seq 5 | ./plus
+15
+# 必要なソフトウェア
+Python 3
+# テスト環境
+Ubuntu 24.04 LTS
+Python 3.10
+Python 3.11
+Python 3.12
+Python 3.13
